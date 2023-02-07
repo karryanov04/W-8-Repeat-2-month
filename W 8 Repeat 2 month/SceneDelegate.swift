@@ -1,9 +1,4 @@
-//
-//  SceneDelegate.swift
-//  W 8 Repeat 2 month
-//
-//  Created by Рауль on 6/2/23.
-//
+
 
 import UIKit
 
